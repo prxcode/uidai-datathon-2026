@@ -1,4 +1,4 @@
-# UIDAI Datathon 2026 - Project ALI
+   # UIDAI Datathon 2026 - Project NeevDrishti
 
 **Aadhaar Lifecycle Intelligence (ALI)** - A comprehensive data analytics solution for identifying operational inefficiencies and service gaps in the Aadhaar ecosystem.
 
@@ -127,7 +127,7 @@ This project uses three primary datasets from UIDAI APIs:
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 Our analysis revealed:
 
