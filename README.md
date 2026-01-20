@@ -1,6 +1,6 @@
    # UIDAI Datathon 2026 - Project NeevDrishti
 
-**Aadhaar Lifecycle Intelligence (ALI)** - A comprehensive data analytics solution for identifying operational inefficiencies and service gaps in the Aadhaar ecosystem.
+**NeevDrishti** - A comprehensive data analytics solution for identifying operational inefficiencies and service gaps in the Aadhaar ecosystem.
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Project ALI transforms raw Aadhaar operational data into actionable intelligence for UIDAI administrators. By analyzing demographic demand, biometric updates, and enrolment patterns across India's 1.4 billion population, we identify:
+Project NeevDrishti transforms raw Aadhaar operational data into actionable intelligence for UIDAI administrators. By analyzing demographic demand, biometric updates, and enrolment patterns across India's 1.4 billion population, we identify:
 
 - **Coverage Gaps**: Districts with low enrolment relative to population
 - **Service Strain**: Zones where biometric update demand exceeds supply
